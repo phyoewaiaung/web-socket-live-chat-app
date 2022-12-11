@@ -17,5 +17,10 @@ app.get('/',(res,req)=> {
 /** socket setup */
 let io = socket(server);
 io.on('connection',(socket)=> {
-    console.log('socket connection connected'+socket.id)
+    socket.on('info',(data)=> {
+        io.sockets.emit('info',data);
+    })
+    socket.on('typing',(name)=> {
+        socket.broadcast.emit('typing',name);
+    })
 })
