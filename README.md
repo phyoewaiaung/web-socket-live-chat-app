@@ -10,7 +10,7 @@
 ..You can run this project by following the steps that I mentioned below.<br>
     1. Clone this project to your local machine.<br>
     2. you need to install nodejs to run this project.<br>
-    3. Ater complete cloning and install nodejs on your local machine, you just need to run "node index.js" cmd in your cloned project folder.<br>
+    3. Ater complete cloning and install nodejs on your local machine, you just need to run ```node index.js``` cmd in your cloned project folder.<br>
     
     
 Kindly check this site and suggest me.
