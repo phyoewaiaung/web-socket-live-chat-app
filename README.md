@@ -1,7 +1,7 @@
 # web-socket-live-chat-app
- ... learing web-socket<br>
- ...  socket.io<br>
- ...  This is my practise for WebSocket by using nodejs express server.<br>
+ learing ***web-socket***<br> 
+ ***socket.io***<br>
+ This is my practise for WebSocket by using ***nodejs express server.***<br>
 
 <p align="center">
 <img src="public/chat.png" width="800px" height="450px"></img>
