@@ -8,9 +8,9 @@
 </p>
 
 ***You can run this project by following the steps that I mentioned below.***<br>
-    &emsp;   1. Clone this project to your local machine.<br>
-    &emsp;   2. you need to install nodejs to run this project.<br>
-    &emsp;   3. Ater cloning the project and installing nodejs on your local machine, you just need to run ```node index.js``` cmd in your cloned project folder.<br>
+  &emsp;***Step1***: clone the github repo to your local project folder.<br>
+  &emsp;***Step2***: navigate your cloned folder and run `npm install` cmd.<br>
+  &emsp;***Step3***; After `npm install` cmd complete, run `npm start` cmd to start project.<br><br>
     
     
 Kindly check this site and suggest me.
