@@ -4,7 +4,7 @@
  This is my practise for WebSocket by using :arrow_right: ***nodejs express server.***<br>
 
 <p align="center">
-<img src="public/chat.png" width="800px" height="450px"></img>
+<img src="public/chat.png" width="100%" height="450px"></img>
 </p>
 
 ***You can run this project by following the steps that I mentioned below.***<br>
