@@ -1,7 +1,9 @@
 let express = require("express");
 let socket = require("socket.io");
+let cors = require('cors');
 /**----app setup---- */
 let app = express();
+app.use(cors());
 
 /**----server setup---- */
 let server = app.listen(4000, () => {
